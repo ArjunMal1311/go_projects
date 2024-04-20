@@ -1,0 +1,3 @@
+go.sum is like packagelog.json file
+go.mod is like package.json file
+
